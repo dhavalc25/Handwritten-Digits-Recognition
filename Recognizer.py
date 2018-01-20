@@ -4,6 +4,11 @@ import gzip
 import random
 
 """
+Authors: Dhaval Chauhan, Srinath Obla, Viral Parmar
+        Rochester Institute of Technology
+
+Based on the guide provided on http://neuralnetworksanddeeplearning.com/chap1.html
+
 Implementation of a triple layered feed forward neural network that
 uses a stochastic gradient descent to learn the pattern in data.
 """
